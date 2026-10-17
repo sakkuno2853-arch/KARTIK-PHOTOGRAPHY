@@ -1,4 +1,4 @@
-# Aurelia Frames — Premium Photography Website
+# KARTIK CPN FILMS — Premium Photography Website
 
 A static 7-page site (plus custom 404) built with plain HTML, CSS and JavaScript. No build step, no frameworks.
 
