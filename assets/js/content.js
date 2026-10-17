@@ -127,7 +127,7 @@ window.SITE = {
   about: {
     name: "KARTIK SHARMA",
     role: "Lead Photographer & Filmmaker",
-    photo: u("kartik.jpeg", 900),
+    photo: u("assets/img/kartik.jpeg", 900),
     previewText:
       "With over a decade behind the lens, Rohan blends documentary instinct with cinematic composition to turn fleeting moments into heirlooms.",
     story:
@@ -142,7 +142,7 @@ window.SITE = {
     ],
     specialities: ["Candid wedding storytelling", "Editorial portraits", "Cinematic films", "Brand & product imagery"],
     team: [
-      { name: "KARTIK THAKUR", role: "Founder · Lead Photographer", img: u("kartik.jpeg", 600) },
+      { name: "KARTIK THAKUR", role: "Founder · Lead Photographer", img: u("assets/img/kartik.jpeg", 600) },
       { name: "MEERA KAPOOR", role: "Cinematographer", img: u("1494790108377-be9c29b29330", 600) },
       { name: "ARJUN DAS", role: "Editor & Colourist", img: u("1542038784456-1ea8e935640e", 600) },
     ],
