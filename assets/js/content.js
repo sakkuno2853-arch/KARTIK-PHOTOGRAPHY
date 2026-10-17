@@ -13,7 +13,7 @@ const u = (id, w = 1200) =>
 window.SITE = {
   /* ---------- 1. BRAND (temporary name & logo — replace later) ---------- */
   brand: {
-    name: "Aurelia Frames",
+    name: "KARTIK CPN FILMS",
     tagline: "Cinematic Photography & Films",
     // Set logoImage to e.g. "assets/img/logo.svg" to use a real logo image.
     // Leave empty to use the text/monogram logo.
@@ -131,7 +131,7 @@ window.SITE = {
     previewText:
       "With over a decade behind the lens, Rohan blends documentary instinct with cinematic composition to turn fleeting moments into heirlooms.",
     story:
-      "Aurelia Frames began with a single camera and a belief that every celebration deserves to be remembered with honesty and beauty. Today we are a small, passionate studio serving couples, families and brands across India.",
+      "KARTIK CPN FILMS began with a single camera and a belief that every celebration deserves to be remembered with honesty and beauty. Today we are a small, passionate studio serving couples, families and brands across India.",
     philosophy:
       "We shoot what you feel, not just what you see. Light, emotion and timing guide every frame — never forced poses or heavy filters.",
     stats: [
