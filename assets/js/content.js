@@ -125,9 +125,9 @@ window.SITE = {
 
   /* ---------- 10. ABOUT / PHOTOGRAPHER ---------- */
   about: {
-    name: "Rohan Mehta",
+    name: "KARTIK SHARMA",
     role: "Lead Photographer & Filmmaker",
-    photo: u("1507003211169-0a1dd7228f2d", 900),
+    photo: u("WhatsApp Image 2026-10-17 at 5.13.06 PM.jpeg", 900),
     previewText:
       "With over a decade behind the lens, Rohan blends documentary instinct with cinematic composition to turn fleeting moments into heirlooms.",
     story:
@@ -142,9 +142,9 @@ window.SITE = {
     ],
     specialities: ["Candid wedding storytelling", "Editorial portraits", "Cinematic films", "Brand & product imagery"],
     team: [
-      { name: "Rohan Mehta", role: "Founder · Lead Photographer", img: u("1507003211169-0a1dd7228f2d", 600) },
-      { name: "Meera Kapoor", role: "Cinematographer", img: u("1494790108377-be9c29b29330", 600) },
-      { name: "Arjun Das", role: "Editor & Colourist", img: u("1542038784456-1ea8e935640e", 600) },
+      { name: "KARTIK THAKUR", role: "Founder · Lead Photographer", img: u("WhatsApp Image 2026-10-17 at 5.13.06 PM.jpeg", 600) },
+      { name: "MEERA KAPOOR", role: "Cinematographer", img: u("1494790108377-be9c29b29330", 600) },
+      { name: "ARJUN DAS", role: "Editor & Colourist", img: u("1542038784456-1ea8e935640e", 600) },
     ],
   },
 
