@@ -70,7 +70,7 @@ window.SITE = {
     { src: u("1511285560929-80b456fea0bc"), cat: "Weddings", alt: "Wedding ceremony with warm evening light", featured: true },
     { src: u("1465495976277-4387d4b0b4c6"), cat: "Weddings", alt: "Couple walking hand in hand after the ceremony" },
     { src: u("1583939003579-730e3918a45a"), cat: "Weddings", alt: "Bridal details in soft natural light" },
-    { src: u("1529634806980-85c3dd6d34ac"), cat: "Pre-Wedding", alt: "Pre-wedding couple portrait outdoors", featured: true },
+    { src: "assets/img/23.jpg.jpeg", cat: "Pre-Wedding", alt: "Pre-wedding couple portrait outdoors", featured: true },
     { src: u("1537633552985-df8429e8048b"), cat: "Pre-Wedding", alt: "Romantic pre-wedding portrait" },
     { src: u("1494790108377-be9c29b29330"), cat: "Portraits", alt: "Studio portrait of a woman" , featured: true },
     { src: u("1507003211169-0a1dd7228f2d"), cat: "Portraits", alt: "Natural light portrait of a man" },
