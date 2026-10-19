@@ -17,7 +17,7 @@ window.SITE = {
     tagline: "Cinematic Photography & Films",
     // Set logoImage to e.g. "assets/img/logo.svg" to use a real logo image.
     // Leave empty to use the text/monogram logo.
-    logoImage: "",
+    logoImage: "assets/img/logo.png",
     monogram: "KCF",
     siteUrl: "https://YOUR-USERNAME.github.io/YOUR-REPO/", // used for SEO/share links
   },
