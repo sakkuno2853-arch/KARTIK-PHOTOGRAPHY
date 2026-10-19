@@ -142,7 +142,7 @@ window.SITE = {
     ],
     specialities: ["Candid wedding storytelling", "Editorial portraits", "Cinematic films", "Brand & product imagery"],
     team: [
-      { name: "KARTIK THAKUR", role: "Founder · Lead Photographer", img: "assets/img/kartik.jpeg",
+      { name: "KARTIK THAKUR", role: "Founder · Lead Photographer", img: "assets/img/kartik.jpeg"},
       { name: "MEERA KAPOOR", role: "Cinematographer", img: u("1494790108377-be9c29b29330", 600) },
       { name: "ARJUN DAS", role: "Editor & Colourist", img: u("1542038784456-1ea8e935640e", 600) },
     ],
