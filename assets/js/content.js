@@ -55,7 +55,7 @@ window.SITE = {
   hero: {
     // Replace with your own file, e.g. "assets/video/hero.mp4" (keep under ~8 MB, 1080p, muted).
     // The sample below is a free CC0 demo clip so playback works out of the box.
-    videoUrl: "video1.mp4",
+    videoUrl: "assets/vid/video1.mp4",
     poster:  u("1519741497674-611481863552", 1800),
     eyebrow: "Photography · Films · Stories",
     headline: "Moments, Framed Like Cinema",
